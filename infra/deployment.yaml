@@ -30,7 +30,7 @@ spec:
         app: flaskapp
     spec:
       containers:
-      - image: davirolim/flaskapp:1.0.0
+      - image: davirolim/flaskapp:1.0.1
         imagePullPolicy: IfNotPresent
         name: flaskapp
         resources: {}
