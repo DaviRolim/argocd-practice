@@ -8,7 +8,7 @@ metadata:
   labels:
     app: flaskapp
   name: flaskapp
-  namespace: default
+  namespace: myapp
   resourceVersion: "3893"
   uid: c7cd09cf-c05e-444f-99de-24d4265d9c6a
 spec:
